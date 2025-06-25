@@ -26,16 +26,16 @@ This project  showcases skills in working with REST APIs, Python, environment va
     git clone https://github.com/myukulkarni/trading_bot.git
     cd trading_bot
 
-2. Install Dependencies
+3. Install Dependencies
 
    pip install -r requirements.txt
 
-3. Configure Environment Variables
+4. Configure Environment Variables
 
    API_KEY=your_testnet_api_key
    API_SECRET=your_testnet_api_secret
 
-4. Run
+5. Run
 
    python main.py
 
