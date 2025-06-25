@@ -23,8 +23,8 @@ This project  showcases skills in working with REST APIs, Python, environment va
 
  1. Clone the Repository
 
-git clone https://github.com/myukulkarni/trading_bot.git
-cd trading_bot
+    git clone https://github.com/myukulkarni/trading_bot.git
+    cd trading_bot
 
 2. Install Dependencies
 
