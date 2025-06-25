@@ -6,7 +6,7 @@ A simplified crypto trading bot built in Python that interacts with the Binance 
 
 This project  showcases skills in working with REST APIs, Python, environment variables, logging, and clean code organization.
 
----
+
 
 ##  Features
 
@@ -18,13 +18,11 @@ This project  showcases skills in working with REST APIs, Python, environment va
 -  Modular code design for easy extension
 -  Uses `python-binance` library
 
----
 
 ##  Setup Instructions
 
  1. Clone the Repository
 
-```bash
 git clone https://github.com/myukulkarni/trading_bot.git
 cd trading_bot
 
@@ -40,19 +38,6 @@ cd trading_bot
 4. Run
 
    python main.py
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
